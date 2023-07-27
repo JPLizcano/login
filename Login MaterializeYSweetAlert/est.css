@@ -1,0 +1,31 @@
+.formulario {
+    width: 20%;
+}
+
+.input-field input {
+    color: rgb(120, 120, 120);
+}
+
+.input-field label {
+    color: rgb(0, 0, 0);
+}
+
+.input-field input:focus {
+    color: rgb(0, 0, 0);
+}
+
+/* .input-field input.valid:focus {
+    color: rgb(40, 150, 40);
+}
+
+.input-field input.invalid:focus {
+    color: rgb(230, 40, 40);
+} */
+
+.input-field .prefix {
+    color: rgb(0, 0, 0);
+}
+
+.input-field .prefix.active {
+    color: rgb(50, 50, 50);
+}
